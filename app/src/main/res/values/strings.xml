@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">domek_w_gurach</string>
+    <string name="domek_w_g_rach">Domek w górach</string>
+    <string name="polub">Polub</string>
+    <string name="usun">Usuń</string>
+    <string name="zapisz">Zapisz</string>
+    <string name="_0_polubie">0 polubień</string>
+    <string name="opis">Opis</string>
+    <string name="opis_tekstu">Odwiedź komfortowy domek w Sudetach, blisko do szlaków turystycznych</string>
+    <string name="umow">Umow</string>
+    <string name="send">Wyślij</string>
+    <string name="back">Wróc</string>
+    <string name="o_nas">O nas</string>
+    <string name="opis_agencji">Nasza agencja zajmuje się wynajmem domków letniskowych w Gąskach. Oferujemy Państwu komfortowe i przytulne domki, które zapewnią niezapomniane wakacje nad morzem. Nasze domki są w pełni wyposażone i znajdują się w malowniczej okolicy, idealnej do wypoczynku i relaksu.</string>
+</resources>
