@@ -70,7 +70,9 @@ public class MainActivity extends AppCompatActivity {
          * @author Artem Prykhoda
          * */
         usun.setOnClickListener(v->{
-           likes--;
+            if(likes>0) {
+                likes--;
+            }
            likesTextView.setText(likes + " polubień");
         });
         /*Obsługa zdarzenia kliknięcia przycisku "Umów"
